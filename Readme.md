@@ -1,3 +1,5 @@
+# Note: I have not been actively maintaining this ElScreen fork as I no longer use it myself. If you are interested in taking over ownership, please open a Github issue.
+
 ElScreen
 ==========
 
